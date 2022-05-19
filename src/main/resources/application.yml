@@ -1,0 +1,7 @@
+spring:
+  cloud:
+    config:
+      profile: dev
+        bootstrap: true
+server:
+  port: 8010
