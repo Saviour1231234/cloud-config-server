@@ -12,6 +12,6 @@ spring:
       server:
         git:
           clone-on-start: true
-          uri: https://github.com/Saviour1231234/
+          uri: https://github.com/Saviour1231234/cloud-config-server
           search-paths:
             - configuration
